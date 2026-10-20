@@ -1,22 +1,16 @@
-# 👋 Hi, I am Jona
+# Hi, I am Jona
 
-I am a researcher at the **Huygens Institute (KNAW)**, working within the LivesLab research group on landscape archaeology and visual science communication.
+My learned trade is field and landscape archaeology. But currently, I am a researcher at the **Huygens Institute (KNAW)**, working within the topics of colonial history, archives, citizen science and visual science communication in the for of web and interface development.
 
-🔭 Currently focused on the document viewer and React component library for Globalise, alongside ongoing work on the Suriname Time Machine and the Citizen Science Incubator. I am also beginning work on INDIGO 2.0, contributing to the conceptual definition of graffiti and graffito.
+Outside the institute I run archaeoINK, a studio for scientific illustration, publication design, and digital tools for the humanities.
 
-🎨 Outside the institute I run archaeoINK, a studio for scientific illustration, publication design, and digital tools for the humanities.
+I co-host *Things We Threw Away*, a podcast on object biography and provenance, together with Stefanie Ulrich. Within that environment, I am trying to define the method of *archaeology journaling*, the practice of drawing and reflecting on objects in the tradition of nature journaling.
 
-🎙️ I co-host *Things We Threw Away*, a podcast on object biography and archaeological journaling, together with Stefanie Ulrich.
+Currently I am learning more about ontologies and controlled vocabularies, CIDOC CRM, drawing techniques, nature and web development, 3D documentation and modelling, balcony plants, and vegan recipes.
 
-🤝 I co-founded PastForwardHub, a career platform for archaeologists.
+Ask me anything about landscape archaeology, geophysical prospection, image-based modelling, 3D modelling on the iPad, design systems for cultural heritage, or archaeology journaling.
 
-📓 Archaeology journaling, the practice of drawing and reflecting on objects in the tradition of nature journaling, is a recurring interest across both my research and my podcast work.
-
-🌱 Currently learning more about ontologies and controlled vocabularies, CIDOC CRM, drawing techniques, nature and archaeology journaling, balcony plants, and vegan recipes.
-
-💬 Ask me about landscape archaeology, geophysical prospection, image-based modelling, 3D modelling on the iPad, design systems for cultural heritage, or archaeological journaling.
-
-## 🌐 Socials
+## Socials
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/jonaschlegel.com)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jonaschlegel1)
@@ -25,7 +19,7 @@ I am a researcher at the **Huygens Institute (KNAW)**, working within the LivesL
 [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://substack.com/@archaeoink)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/@archaeoINK)
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,8 +35,6 @@ I am a researcher at the **Huygens Institute (KNAW)**, working within the LivesL
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Tooling and Quality
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
